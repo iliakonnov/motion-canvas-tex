@@ -1,0 +1,9 @@
+{
+  "extends": "@motion-canvas/2d/tsconfig.project.json",
+  "compilerOptions": {
+    "target": "es2019",
+    "baseUrl": "src",
+    "removeComments": false
+  },
+  "include": ["src"]
+}
